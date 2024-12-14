@@ -1,0 +1,12 @@
+server:
+  port: 9880
+
+knife4j:
+  # 开启增强配置
+  enable: true
+  basic:
+    enable: true
+    # Basic认证用户名
+    username: admin
+    # Basic认证密码，所有文档密码都需要相同，要不然在网关无法正常切换到其他项目的文档
+    password: 4.5Xinxibu1717
